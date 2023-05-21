@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "ChatGPT Sidebar Toggle",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Toggle displaying the sidebar on ChatGPT.",
   "icons": {
     "48": "icon.png"

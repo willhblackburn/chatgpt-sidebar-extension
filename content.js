@@ -2,7 +2,7 @@
 
 // Function to toggle the sidebar visibility
 function toggleSidebar() {
-  const sidebar = document.querySelector('.dark.hidden.bg-gray-900');
+  const sidebar = document.querySelector('.dark.overflow-x-hidden.bg-gray-900');
   
   if (sidebar) {
     if (sidebar.style.display === 'none') {
